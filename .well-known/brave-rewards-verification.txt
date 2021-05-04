@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: crazycoderz.ml
-Token: 044de78324e32a56f8eea156cf9856b5deb9eca8995e6b3559d19d47f049dcd5
